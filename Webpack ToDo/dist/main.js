@@ -1,1 +1,0 @@
-(()=>{const t=document.querySelector("#root"),e=document.createElement("textarea"),n=document.createElement("input");n.setAttribute("type","button"),n.setAttribute("class","mybutton"),n.addEventListener("click",(function(){const t=e.value;console.log(t)})),t.append(e,n)})();
