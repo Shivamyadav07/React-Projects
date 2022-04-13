@@ -1,5 +1,33 @@
 .App {
+  margin: auto;
   text-align: center;
+  padding: 20px;
+  height: 45px;
+  width: 720px;
+  background-color: rgb(214, 226, 236);
+  margin-top: 20px;
+}
+.innerdiv {
+  display: flex;
+  height: 40px;
+  width: 650px;
+  justify-content: center;
+  background-color: black;
+}
+p {
+  margin: 10px;
+}
+button{
+  margin-left: 160px;
+}
+img {
+  margin-top: 5px;
+  width: 90px;
+  margin-right: 80px;
+  height: 30px;
+}
+.links {
+  color: white;
 }
 
 .App-logo {
