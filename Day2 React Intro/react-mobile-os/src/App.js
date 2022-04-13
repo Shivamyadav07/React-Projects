@@ -10,6 +10,8 @@ function App() {
           return <Os operating={e}/>
       })}
 
+    {/* calling defined and proviging the passing the argument to the function */}
+
       Mobile Manufacturers
       {Makers.map(e=>{
         return <Manufacturers mnf={e}  />
@@ -17,7 +19,8 @@ function App() {
     </h2>
   );
 }
-// creating function and giving argument 
+// creating function and giving taking object argument 
+
 function Os({operating})
 {
  return <li>{operating}</li>
