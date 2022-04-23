@@ -17,12 +17,12 @@ export function Navbar() {
                 async function getdata() {
                     const res = await fetch("https://reqres.in/api/login");
                     const data = await res.json();
-                    setdata(data);
+                    setdata(data.data[0].name);
                 }
                 handleauth(isauth);
             }
             }> login </button>
-            <h1>{isauth === "false" ? "try to login " :mydata}</h1>
+            <h1>{isauth === "false" ? "try to login " :<h>you are logde in:{mydata}</h>}</h1>
         </div>
     );
 }
