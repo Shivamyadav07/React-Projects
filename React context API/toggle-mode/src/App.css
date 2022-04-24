@@ -1,0 +1,10 @@
+.light{
+  background-color: white;
+  display: flex;
+}
+
+.dark{
+  background-color: black;
+  color: white;
+  display: flex;
+}
