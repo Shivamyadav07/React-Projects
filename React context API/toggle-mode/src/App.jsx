@@ -12,22 +12,22 @@ function App() {
 
   const mylogo = [
     {
-      src: "https://cdn-icons.flaticon.com/png/128/2567/premium/2567943.png?token=exp=1650769277~hmac=024c88ec68e884bc2797db9a0c38715d",
+      src: "https://cdn-icons-png.flaticon.com/128/900/900772.png",
     },
     {
-      src: "https://cdn-icons.flaticon.com/png/512/819/premium/819865.png?token=exp=1650770280~hmac=921035860e8bf8aa324dc75b2af85eb5",
+      src: "https://cdn-icons.flaticon.com/png/128/523/premium/523280.png?token=exp=1654024266~hmac=3da2a08ada1636749301ecbeea65bf42",
     },
     {
       src: "https://t3.ftcdn.net/jpg/03/36/05/70/240_F_336057041_WrrsFfnUg6ijLwQgTYJ4JUNIC7Jh1CqN.jpg",
     },
     {
-      src: "https://cdn-icons.flaticon.com/png/128/2594/premium/2594058.png?token=exp=1650771241~hmac=b3ccfa06ca34420d0d3bb77ad98d1b3c",
+      src: "https://cdn-icons-png.flaticon.com/128/589/589708.png",
     },
     {
       src: "https://t4.ftcdn.net/jpg/04/66/96/35/240_F_466963590_OeKdrYK6R2I56VrZKaJ3C4SL3EKa9iiC.jpg",
     },
     {
-      src: "https://cdn-icons.flaticon.com/png/128/2040/premium/2040504.png?token=exp=1650771354~hmac=57a1fd1dd15a93f2358d2f41a691238b",
+      src: "https://cdn-icons-png.flaticon.com/128/929/929872.png",
     },
   ];
   return (
